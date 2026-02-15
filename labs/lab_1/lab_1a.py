@@ -10,7 +10,7 @@ with your name. Then, save the code, add it to the staging area, and commit it t
 def main():
     print("Hello World!")
 
-    name = "" # TODO: Insert your name between the double quotes
+    name = "Vansh Jain"
 
     print(f"{name}, Welcome to the CSS course!")
 
