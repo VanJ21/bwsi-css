@@ -43,7 +43,7 @@ def request_sanitized_number(prompt: str) -> float:
             number = float(input(prompt))
             return number
         except ValueError:
-            print("invalid input. please enter a valid number")
+            print("invalid input. Please enter a valid number")
 
 def main():
     
